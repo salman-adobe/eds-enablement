@@ -1,0 +1,13 @@
+.eds-enablement-block > div > div:nth-child(1) {
+  background-color: #e6f2ff;
+  border: 1px solid #99c2ff;
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+.eds-enablement-block > div > div:nth-child(2) {
+  background-color: #fff4e6;
+  border: 1px solid #ffcc99;
+  border-radius: 12px;
+  padding: 1rem;
+}
